@@ -1,0 +1,6 @@
+l=int(input("enter length of rectangle"))
+b=int(input("enter breadth of rectangle"))
+if(l=b):
+Print("the rectangle given is a square")
+else:
+print("the given rectangle is not a square")
